@@ -1,7 +1,7 @@
 # Implementacja metody szybkiego wykrywania duplikatów
 
 ## Konfiguracja środowiska uruchomieniowego Python
-### W pierwszej kolejności należy utworzyć za pomocą narzędzia venv lub dowolnego innego służącego do tworzenia środowisk virtualnych.
+### W pierwszej kolejności należy utworzyć środowisko wirtual za pomocą narzędzia venv lub dowolnego innego służącego do tworzenia środowisk virtualnych.
 - Windows: `python -m venv env`
 - Linux: `python3 -m venv env`
 ### Efektem takiego polecenia będzie utworzenie folderu env z plikami środowiska wirtualnego.
