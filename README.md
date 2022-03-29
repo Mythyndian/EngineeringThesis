@@ -2,18 +2,18 @@
 
 ## Konfiguracja środowiska uruchomieniowego Python
 ### W pierwszej kolejności należy utworzyć za pomocą narzędzia venv lub dowolnego innego służącego do tworzenia środowisk virtualnych.
-Windows: `python -m venv env`
-Linux: `python3 -m venv env`
+- Windows: `python -m venv env`
+- Linux: `python3 -m venv env`
 ### Efektem takiego polecenia będzie utworzenie folderu env z plikami środowiska wirtualnego.
 
 ### Następny krokiem jest aktywacja środowiska następującymi poleceniami
 `cd  env/Scripts`
-Windows: `.\activate`
-Linux: `source env/bin/activate`
+- Windows: `.\activate`
+- Linux: `source env/bin/activate`
 
 ### Instalacja wymaganych pakietów
-Windows: `pip install -r requirements.txt`
-Linux: `pip3 install -r requirements.txt`
+- Windows: `pip install -r requirements.txt`
+- Linux: `pip3 install -r requirements.txt`
 
 ### Konfiguracja środowiska uruchomieniowego Node.js
 Do poprawnego działania serwera lokalnego jest wymagana instalacja [Node.js](https://nodejs.org/en/) 
