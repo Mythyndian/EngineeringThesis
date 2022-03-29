@@ -21,11 +21,11 @@ oraz biblioteki [Express.js](https://expressjs.com/).
 
 ## Przygotowanie do uruchomienia
 - Umieścić pliki graficzne w folderze EngineeringThesis/test_website/images/personal
-- Z folderu EngineeringThesis/test_website/python uruchomić polecenie `python image_manipulator.py`
-- Z folderu EngineeringThesis/test_website/python uruchomić polecenie `python index_html_generator.py`
-- Z folderu EngineeringThesis/test_website/python uruchomić polecenie `python user_profile_generator.py`
-- Z folderu EngineeringThesis/test_website/python uruchomić polecenie `python user_list_generator.py`
-- Z folderu EngineeringThesis/test_website/python uruchomić polecenie `node server.js`
+- Z folderu EngineeringThesis/test_website uruchomić polecenie `python image_manipulator.py`
+- Z folderu EngineeringThesis/test_website uruchomić polecenie `python index_html_generator.py`
+- Z folderu EngineeringThesis/test_website uruchomić polecenie `python user_profile_generator.py`
+- Z folderu EngineeringThesis/test_website uruchomić polecenie `python user_list_generator.py`
+- Z folderu EngineeringThesis/test_website uruchomić polecenie `node server.js`
 ## Uruchomienie web crawlera
 Z folderu EngineeringThesis/algorithm uruchomić polecenie `python selenium_webcrawler.py`
 ## Uruchomienie algorytmu
