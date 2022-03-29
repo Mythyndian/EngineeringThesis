@@ -7,7 +7,7 @@
 ### Efektem takiego polecenia będzie utworzenie folderu env z plikami środowiska wirtualnego.
 
 ### Następny krokiem jest aktywacja środowiska następującymi poleceniami
-`cd  env/Scripts`
+-`cd  env/Scripts`
 - Windows: `.\activate`
 - Linux: `source env/bin/activate`
 
